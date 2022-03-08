@@ -10,5 +10,5 @@ Sou Marcilane Souza!
          
           Estudante Dev. FullStack, amante de café, fã de Javascript, e muito curiosa.
           
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/marcilane_de ) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcilane-souza-lima-9427bb69/marcilane/) 
+          [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/marcilane-souza-lima-9427bb69/marcilane/)
           
