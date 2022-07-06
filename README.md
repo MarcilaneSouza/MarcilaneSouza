@@ -3,7 +3,7 @@
 
 <img src = "https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg">
 
-      "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
+      <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
          
           Dev. Fullstack, amante de café, fã de Javascript e, muito curiosa.
           
