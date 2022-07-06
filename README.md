@@ -10,4 +10,4 @@ Sou Marcilane Souza! Ela/dela
       
          
           Dev. Fullstack, amante de café, fã de Javascript e, muito curiosa.
-          Apaixonada por pessoas que possuem 
+          
