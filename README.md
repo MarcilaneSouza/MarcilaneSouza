@@ -4,7 +4,9 @@ Sou Marcilane Souza
 Pronouns: Ela/dela
 Formada em Fullstack
 
+<p align="center">
 <img src = "https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg">
+</p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcilanesouza&theme=blue-green">
 
