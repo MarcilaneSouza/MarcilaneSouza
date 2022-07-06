@@ -15,3 +15,5 @@ Sou Marcilane Souza! Ela/dela
          
           Dev. Fullstack, amante de café, fã de Javascript e, muito curiosa.
           
+          ![Snake animation](https://github.com/MarcilaneSouza/blob/output/github-contribution-grid-snake.svg)
+          
