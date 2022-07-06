@@ -13,6 +13,7 @@ Formada em Fullstack
 </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcilanesouza&theme=blue-green">
+<img height="180em" src="https://github-readme-stats.vercel.app/top-langs/?username=marcilanesouza
 
 
 <p align="center">
