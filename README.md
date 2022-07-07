@@ -1,11 +1,8 @@
 <p align="center">
-Olá! Bem-vindo! Fique a vontade para fazer um tour por aqui.
-</p>
-    
+Olá! Bem-vindo! </p>  <p align="center"> Sou Marcilane Souza-Ela/dela ☺️  </p>
 <p align="center">
-Sou Marcilane Souza-Ela/dela 
-    ☺️
-Formada em Fullstack
+    Formada em Fullstack
+    Fique a vontade para fazer um tour por aqui.
 </p>
     
 <p align="center">
