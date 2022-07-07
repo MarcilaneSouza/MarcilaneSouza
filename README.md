@@ -3,13 +3,13 @@ Olá! Bem-vindo! Fique a vontade para fazer um tour por aqui.
 </p>
     
 <p align="center">
-Sou Marcilane Souza
-Pronouns: Ela/dela
+Sou Marcilane Souza-Ela/dela 
+    ☺️
 Formada em Fullstack
 </p>
     
 <p align="center">
-<img src = "https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg">
+<img windth="50" height="200" src = "https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg">
 </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcilanesouza&theme=midnight-purple">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcilanesouza&layout=compact&langs_count=16&theme=dracula"/>
@@ -20,14 +20,16 @@ Formada em Fullstack
 </p>
     
  ##
+ 
+         Apaixonada pela minha família 👨‍👩‍👧‍👧 e minha 🐶. 
+            
     
 <div>
     <a href="https://twitter.com/marcilane_de" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcilane-souza-9427bb69/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
     
-         
-          Dev. Fullstack, amante de café, fã de Javascript e, muito curiosa.
+
           
           
           
