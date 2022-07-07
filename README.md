@@ -1,4 +1,4 @@
-### Olá! Eu sou Marcilane Souza
+## Olá! Eu sou Marcilane Souza 🖐️
 
 
 - 🔭 Apaixonada por tecnologia
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
     
-## Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
   
 <div style="display: inline_block"><br>
        
