@@ -21,6 +21,8 @@
   <img align="center" alt="marci-node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Marci-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Marci-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <i class="devicon-bootstrap-plain-wordmark colored"></i>
+          
 </div>
     
 ##
