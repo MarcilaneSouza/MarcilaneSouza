@@ -3,7 +3,7 @@
 
 - 🔭 Apaixonada por tecnologia
 - 🌱 Desenvolvedor Fullstack pela Escola Resília Educação.
-- Cursando ADS na faculdade Descomplica 
+- Cursando ADS na Faculdade Descomplica 
 
 <div align="center">
   <a href="https://github.com/MarcilaneSouza">
