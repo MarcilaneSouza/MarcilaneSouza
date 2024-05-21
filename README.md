@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonada por tecnologia
--    Cursando ADS no Centro Educacional Uniamérica Descomplica  
+- <3 Cursando ADS no Centro Educacional Uniamérica Descomplica  
 - 🌱 Desenvolvedor Fullstack pela Escola Resília Educação.
 
 
