@@ -2,8 +2,9 @@
 
 
 - 🔭 Apaixonada por tecnologia
+-    Cursando ADS no Centro Educacional Uniamérica Descomplica  
 - 🌱 Desenvolvedor Fullstack pela Escola Resília Educação.
-- Cursando ADS na Faculdade Descomplica Uniamérica 
+
 
 <div align="center">
   <a href="https://github.com/MarcilaneSouza">
