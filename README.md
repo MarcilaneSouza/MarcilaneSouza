@@ -1,7 +1,7 @@
 ## Olá! Eu sou Marcilane Souza 🖐️
 
 
-- 🔭 Apaixonada pela minha família, tecnologia e café ☕.
+- 🔭 Apaixonada pela minha família, tecnologia, minha pet 🐶 e café ☕.
 - ❤ Cursando ADS no Centro Educacional Uniamérica Descomplica.
 - Meu maior prazer é servir e cuidar de pessoas. 
 - 🌱 Formada Desenvolvedor Fullstack pela Escola Resília Educação.
