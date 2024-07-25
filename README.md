@@ -18,6 +18,9 @@
       alt="GitHub"
   /></a>
 </p>
+
+    [![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=level&theme=ocean-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 </div>
     
 ### Tecnologias que eu uso no meu dia
