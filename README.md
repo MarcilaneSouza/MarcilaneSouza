@@ -11,16 +11,6 @@
   <a href="https://github.com/MarcilaneSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcilanesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcilanesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <p align="center">
-  <a href="https://github.com/"
-    ><img
-      src="https://img.icons8.com/bubbles/50/000000/github.png"
-      alt="GitHub"
-  /></a>
-</p>
-
-    [![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=level&theme=ocean-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-
 </div>
     
 ### Tecnologias que eu uso no meu dia
