@@ -27,17 +27,6 @@
   <img align="center" alt="Marci-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   
 </div>
-
-```html
-<p align="center">
-  <a href="https://github.com/"
-    ><img
-      src="https://img.icons8.com/bubbles/50/000000/github.png"
-      alt="GitHub"
-  /></a>
-</p>
-```
-
     
 ##
     
