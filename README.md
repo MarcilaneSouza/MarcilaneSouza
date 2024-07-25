@@ -5,10 +5,6 @@
 - ❤ Cursando ADS no Centro Educacional Uniamérica Descomplica.
 - 👨‍👨‍👧‍👦  Meu maior prazer é servir e cuidar de pessoas. 
 - 🌱 Formada Desenvolvedor Fullstack pela Escola Resília Educação.
-- <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-
 
 <div align="center">
   <a href="https://github.com/MarcilaneSouza">
@@ -41,6 +37,11 @@
   
 </div>
 
+##
+
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 
     
