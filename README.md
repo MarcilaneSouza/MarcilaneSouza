@@ -11,6 +11,9 @@
   <a href="https://github.com/MarcilaneSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcilanesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcilanesouza&layout=compact&show_icons=true&theme=dracula"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 </div>
     
 ### Tecnologias que eu uso no meu dia
