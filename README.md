@@ -40,7 +40,7 @@
 ##
 
 
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20EVOLUINDO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=SEMPRE%20EVOLUINDO&color=GREEN&style=for-the-badge"/>
 
 
     
